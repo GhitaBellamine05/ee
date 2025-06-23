@@ -1,0 +1,1469 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Recette 1",
+      "description": "Une délicieuse recette numéro 1.",
+      "image": "https://picsum.photos/id/101/400/300",
+      "regimes": [
+        "flexitarien",
+        "cetogene",
+        "omnivore"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "plat",
+      "ingredients": [
+        "courgette",
+        "tofu",
+        "banane",
+        "tomate"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef B"
+    },
+    {
+      "id": 2,
+      "title": "Recette 2",
+      "description": "Une délicieuse recette numéro 2.",
+      "image": "https://picsum.photos/id/102/400/300",
+      "regimes": [
+        "vegetarien",
+        "pescetarien"
+      ],
+      "time": 20,
+      "difficulty": "moyenne",
+      "category": "entrée",
+      "ingredients": [
+        "noix",
+        "oignon",
+        "lentilles",
+        "carotte",
+        "pomme de terre",
+        "riz",
+        "avocat"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef C"
+    },
+    {
+      "id": 3,
+      "title": "Recette 3",
+      "description": "Une délicieuse recette numéro 3.",
+      "image": "https://picsum.photos/id/103/400/300",
+      "regimes": [
+        "fruitarien",
+        "crudivore",
+        "vegetarien"
+      ],
+      "time": 15,
+      "difficulty": "moyenne",
+      "category": "entrée",
+      "ingredients": [
+        "poisson",
+        "courgette",
+        "épinards",
+        "pomme de terre",
+        "oignon",
+        "noix"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef D"
+    },
+    {
+      "id": 4,
+      "title": "Recette 4",
+      "description": "Une délicieuse recette numéro 4.",
+      "image": "https://picsum.photos/id/104/400/300",
+      "regimes": [
+        "vegan"
+      ],
+      "time": 20,
+      "difficulty": "facile",
+      "category": "plat",
+      "ingredients": [
+        "fromage",
+        "tofu",
+        "poulet",
+        "courgette"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef E"
+    },
+    {
+      "id": 5,
+      "title": "Recette 5",
+      "description": "Une délicieuse recette numéro 5.",
+      "image": "https://picsum.photos/id/105/400/300",
+      "regimes": [
+        "paleo",
+        "pescetarien"
+      ],
+      "time": 60,
+      "difficulty": "moyenne",
+      "category": "dessert",
+      "ingredients": [
+        "quinoa",
+        "épinards",
+        "carotte",
+        "poisson",
+        "riz",
+        "fromage",
+        "oeufs"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef F"
+    },
+    {
+      "id": 6,
+      "title": "Recette 6",
+      "description": "Une délicieuse recette numéro 6.",
+      "image": "https://picsum.photos/id/106/400/300",
+      "regimes": [
+        "fruitarien"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "entrée",
+      "ingredients": [
+        "noix",
+        "poulet",
+        "oignon",
+        "quinoa",
+        "carotte",
+        "épinards",
+        "avocat"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef G"
+    },
+    {
+      "id": 7,
+      "title": "Recette 7",
+      "description": "Une délicieuse recette numéro 7.",
+      "image": "https://picsum.photos/id/107/400/300",
+      "regimes": [
+        "vegan",
+        "cetogene",
+        "paleo"
+      ],
+      "time": 60,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "quinoa",
+        "fromage",
+        "riz",
+        "banane",
+        "avocat"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef H"
+    },
+    {
+      "id": 8,
+      "title": "Recette 8",
+      "description": "Une délicieuse recette numéro 8.",
+      "image": "https://picsum.photos/id/108/400/300",
+      "regimes": [
+        "crudivore",
+        "omnivore"
+      ],
+      "time": 45,
+      "difficulty": "moyenne",
+      "category": "salade",
+      "ingredients": [
+        "oeufs",
+        "poulet",
+        "tomate",
+        "banane",
+        "pomme de terre"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef I"
+    },
+    {
+      "id": 9,
+      "title": "Recette 9",
+      "description": "Une délicieuse recette numéro 9.",
+      "image": "https://picsum.photos/id/109/400/300",
+      "regimes": [
+        "cetogene",
+        "paleo",
+        "crudivore"
+      ],
+      "time": 15,
+      "difficulty": "difficile",
+      "category": "dessert",
+      "ingredients": [
+        "tomate",
+        "avocat",
+        "fromage",
+        "carotte",
+        "champignons"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef J"
+    },
+    {
+      "id": 10,
+      "title": "Recette 10",
+      "description": "Une délicieuse recette numéro 10.",
+      "image": "https://picsum.photos/id/110/400/300",
+      "regimes": [
+        "crudivore",
+        "pescetarien"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "champignons",
+        "poisson",
+        "banane",
+        "riz"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef K"
+    },
+    {
+      "id": 11,
+      "title": "Recette 11",
+      "description": "Une délicieuse recette numéro 11.",
+      "image": "https://picsum.photos/id/111/400/300",
+      "regimes": [
+        "omnivore",
+        "sans-gluten"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "soupe",
+      "ingredients": [
+        "quinoa",
+        "poisson",
+        "tofu",
+        "noix",
+        "fromage"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef L"
+    },
+    {
+      "id": 12,
+      "title": "Recette 12",
+      "description": "Une délicieuse recette numéro 12.",
+      "image": "https://picsum.photos/id/112/400/300",
+      "regimes": [
+        "paleo",
+        "vegetarien"
+      ],
+      "time": 45,
+      "difficulty": "facile",
+      "category": "entrée",
+      "ingredients": [
+        "poulet",
+        "carotte",
+        "épinards",
+        "riz",
+        "poisson",
+        "oeufs",
+        "oignon"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef M"
+    },
+    {
+      "id": 13,
+      "title": "Recette 13",
+      "description": "Une délicieuse recette numéro 13.",
+      "image": "https://picsum.photos/id/113/400/300",
+      "regimes": [
+        "cetogene",
+        "flexitarien",
+        "vegetarien"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "noix",
+        "courgette",
+        "pomme de terre",
+        "banane",
+        "lentilles",
+        "champignons",
+        "riz"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef N"
+    },
+    {
+      "id": 14,
+      "title": "Recette 14",
+      "description": "Une délicieuse recette numéro 14.",
+      "image": "https://picsum.photos/id/114/400/300",
+      "regimes": [
+        "pescetarien",
+        "omnivore",
+        "crudivore"
+      ],
+      "time": 30,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "épinards",
+        "poisson",
+        "pomme de terre",
+        "quinoa",
+        "poulet"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef O"
+    },
+    {
+      "id": 15,
+      "title": "Recette 15",
+      "description": "Une délicieuse recette numéro 15.",
+      "image": "https://picsum.photos/id/115/400/300",
+      "regimes": [
+        "crudivore",
+        "flexitarien"
+      ],
+      "time": 45,
+      "difficulty": "moyenne",
+      "category": "entrée",
+      "ingredients": [
+        "oeufs",
+        "banane",
+        "champignons",
+        "poulet"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef P"
+    },
+    {
+      "id": 16,
+      "title": "Recette 16",
+      "description": "Une délicieuse recette numéro 16.",
+      "image": "https://picsum.photos/id/116/400/300",
+      "regimes": [
+        "vegetarien",
+        "sans-gluten",
+        "paleo"
+      ],
+      "time": 30,
+      "difficulty": "facile",
+      "category": "entrée",
+      "ingredients": [
+        "quinoa",
+        "noix",
+        "lentilles",
+        "poulet",
+        "fromage",
+        "tofu",
+        "champignons"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef Q"
+    },
+    {
+      "id": 17,
+      "title": "Recette 17",
+      "description": "Une délicieuse recette numéro 17.",
+      "image": "https://picsum.photos/id/117/400/300",
+      "regimes": [
+        "crudivore",
+        "pescetarien"
+      ],
+      "time": 30,
+      "difficulty": "difficile",
+      "category": "dessert",
+      "ingredients": [
+        "carotte",
+        "poisson",
+        "riz",
+        "oignon",
+        "tofu",
+        "pomme de terre",
+        "courgette"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef R"
+    },
+    {
+      "id": 18,
+      "title": "Recette 18",
+      "description": "Une délicieuse recette numéro 18.",
+      "image": "https://picsum.photos/id/118/400/300",
+      "regimes": [
+        "sans-gluten"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "tofu",
+        "quinoa",
+        "banane",
+        "épinards",
+        "champignons"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef S"
+    },
+    {
+      "id": 19,
+      "title": "Recette 19",
+      "description": "Une délicieuse recette numéro 19.",
+      "image": "https://picsum.photos/id/119/400/300",
+      "regimes": [
+        "cetogene",
+        "vegetarien",
+        "flexitarien"
+      ],
+      "time": 15,
+      "difficulty": "difficile",
+      "category": "soupe",
+      "ingredients": [
+        "courgette",
+        "riz",
+        "champignons",
+        "banane",
+        "lentilles",
+        "oeufs",
+        "poulet"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef T"
+    },
+    {
+      "id": 20,
+      "title": "Recette 20",
+      "description": "Une délicieuse recette numéro 20.",
+      "image": "https://picsum.photos/id/120/400/300",
+      "regimes": [
+        "paleo"
+      ],
+      "time": 20,
+      "difficulty": "difficile",
+      "category": "dessert",
+      "ingredients": [
+        "banane",
+        "poulet",
+        "pomme de terre",
+        "lentilles",
+        "tomate",
+        "avocat",
+        "poisson"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef U"
+    },
+    {
+      "id": 21,
+      "title": "Recette 21",
+      "description": "Une délicieuse recette numéro 21.",
+      "image": "https://picsum.photos/id/121/400/300",
+      "regimes": [
+        "vegan"
+      ],
+      "time": 60,
+      "difficulty": "moyenne",
+      "category": "soupe",
+      "ingredients": [
+        "champignons",
+        "quinoa",
+        "tofu",
+        "poulet",
+        "carotte",
+        "courgette"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef V"
+    },
+    {
+      "id": 22,
+      "title": "Recette 22",
+      "description": "Une délicieuse recette numéro 22.",
+      "image": "https://picsum.photos/id/122/400/300",
+      "regimes": [
+        "flexitarien",
+        "paleo",
+        "crudivore"
+      ],
+      "time": 30,
+      "difficulty": "moyenne",
+      "category": "soupe",
+      "ingredients": [
+        "fromage",
+        "carotte",
+        "noix",
+        "poisson"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef W"
+    },
+    {
+      "id": 23,
+      "title": "Recette 23",
+      "description": "Une délicieuse recette numéro 23.",
+      "image": "https://picsum.photos/id/123/400/300",
+      "regimes": [
+        "paleo",
+        "cetogene"
+      ],
+      "time": 15,
+      "difficulty": "difficile",
+      "category": "dessert",
+      "ingredients": [
+        "épinards",
+        "noix",
+        "oignon",
+        "poulet",
+        "tomate",
+        "avocat",
+        "tofu"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef X"
+    },
+    {
+      "id": 24,
+      "title": "Recette 24",
+      "description": "Une délicieuse recette numéro 24.",
+      "image": "https://picsum.photos/id/124/400/300",
+      "regimes": [
+        "vegan",
+        "flexitarien",
+        "cetogene"
+      ],
+      "time": 20,
+      "difficulty": "moyenne",
+      "category": "plat",
+      "ingredients": [
+        "poulet",
+        "pomme de terre",
+        "riz",
+        "épinards",
+        "lentilles"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef Y"
+    },
+    {
+      "id": 25,
+      "title": "Recette 25",
+      "description": "Une délicieuse recette numéro 25.",
+      "image": "https://picsum.photos/id/125/400/300",
+      "regimes": [
+        "crudivore",
+        "sans-gluten",
+        "paleo"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "dessert",
+      "ingredients": [
+        "oeufs",
+        "lentilles",
+        "poisson",
+        "pomme de terre",
+        "noix",
+        "banane"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef Z"
+    },
+    {
+      "id": 26,
+      "title": "Recette 26",
+      "description": "Une délicieuse recette numéro 26.",
+      "image": "https://picsum.photos/id/126/400/300",
+      "regimes": [
+        "sans-gluten",
+        "fruitarien"
+      ],
+      "time": 45,
+      "difficulty": "moyenne",
+      "category": "dessert",
+      "ingredients": [
+        "courgette",
+        "épinards",
+        "riz",
+        "pomme de terre",
+        "lentilles",
+        "tomate",
+        "oeufs"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef A"
+    },
+    {
+      "id": 27,
+      "title": "Recette 27",
+      "description": "Une délicieuse recette numéro 27.",
+      "image": "https://picsum.photos/id/127/400/300",
+      "regimes": [
+        "sans-gluten",
+        "vegan"
+      ],
+      "time": 30,
+      "difficulty": "difficile",
+      "category": "plat",
+      "ingredients": [
+        "oeufs",
+        "pomme de terre",
+        "riz",
+        "poulet",
+        "tomate",
+        "courgette"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef B"
+    },
+    {
+      "id": 28,
+      "title": "Recette 28",
+      "description": "Une délicieuse recette numéro 28.",
+      "image": "https://picsum.photos/id/128/400/300",
+      "regimes": [
+        "vegan",
+        "pescetarien",
+        "flexitarien"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "oeufs",
+        "carotte",
+        "poisson",
+        "avocat",
+        "riz",
+        "oignon"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef C"
+    },
+    {
+      "id": 29,
+      "title": "Recette 29",
+      "description": "Une délicieuse recette numéro 29.",
+      "image": "https://picsum.photos/id/129/400/300",
+      "regimes": [
+        "sans-gluten"
+      ],
+      "time": 30,
+      "difficulty": "moyenne",
+      "category": "soupe",
+      "ingredients": [
+        "fromage",
+        "courgette",
+        "quinoa",
+        "poulet"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef D"
+    },
+    {
+      "id": 30,
+      "title": "Recette 30",
+      "description": "Une délicieuse recette numéro 30.",
+      "image": "https://picsum.photos/id/130/400/300",
+      "regimes": [
+        "vegetarien"
+      ],
+      "time": 15,
+      "difficulty": "moyenne",
+      "category": "salade",
+      "ingredients": [
+        "poisson",
+        "fromage",
+        "quinoa",
+        "épinards",
+        "oignon",
+        "avocat",
+        "tomate"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef E"
+    },
+    {
+      "id": 31,
+      "title": "Recette 31",
+      "description": "Une délicieuse recette numéro 31.",
+      "image": "https://picsum.photos/id/131/400/300",
+      "regimes": [
+        "crudivore",
+        "pescetarien",
+        "vegan"
+      ],
+      "time": 15,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "tomate",
+        "tofu",
+        "avocat",
+        "oeufs"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef F"
+    },
+    {
+      "id": 32,
+      "title": "Recette 32",
+      "description": "Une délicieuse recette numéro 32.",
+      "image": "https://picsum.photos/id/132/400/300",
+      "regimes": [
+        "fruitarien"
+      ],
+      "time": 60,
+      "difficulty": "facile",
+      "category": "soupe",
+      "ingredients": [
+        "avocat",
+        "poisson",
+        "tofu",
+        "banane",
+        "carotte",
+        "quinoa"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef G"
+    },
+    {
+      "id": 33,
+      "title": "Recette 33",
+      "description": "Une délicieuse recette numéro 33.",
+      "image": "https://picsum.photos/id/133/400/300",
+      "regimes": [
+        "crudivore",
+        "flexitarien",
+        "paleo"
+      ],
+      "time": 45,
+      "difficulty": "facile",
+      "category": "dessert",
+      "ingredients": [
+        "oignon",
+        "tomate",
+        "lentilles",
+        "avocat",
+        "banane"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef H"
+    },
+    {
+      "id": 34,
+      "title": "Recette 34",
+      "description": "Une délicieuse recette numéro 34.",
+      "image": "https://picsum.photos/id/134/400/300",
+      "regimes": [
+        "crudivore",
+        "vegan"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "entrée",
+      "ingredients": [
+        "poisson",
+        "oignon",
+        "riz",
+        "oeufs",
+        "quinoa"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef I"
+    },
+    {
+      "id": 35,
+      "title": "Recette 35",
+      "description": "Une délicieuse recette numéro 35.",
+      "image": "https://picsum.photos/id/135/400/300",
+      "regimes": [
+        "cetogene",
+        "flexitarien"
+      ],
+      "time": 15,
+      "difficulty": "difficile",
+      "category": "dessert",
+      "ingredients": [
+        "riz",
+        "épinards",
+        "pomme de terre",
+        "quinoa"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef J"
+    },
+    {
+      "id": 36,
+      "title": "Recette 36",
+      "description": "Une délicieuse recette numéro 36.",
+      "image": "https://picsum.photos/id/136/400/300",
+      "regimes": [
+        "pescetarien",
+        "omnivore",
+        "fruitarien"
+      ],
+      "time": 60,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "oignon",
+        "poisson",
+        "poulet",
+        "quinoa",
+        "noix",
+        "banane"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef K"
+    },
+    {
+      "id": 37,
+      "title": "Recette 37",
+      "description": "Une délicieuse recette numéro 37.",
+      "image": "https://picsum.photos/id/137/400/300",
+      "regimes": [
+        "pescetarien"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "soupe",
+      "ingredients": [
+        "riz",
+        "noix",
+        "champignons",
+        "lentilles",
+        "quinoa",
+        "oignon",
+        "épinards"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef L"
+    },
+    {
+      "id": 38,
+      "title": "Recette 38",
+      "description": "Une délicieuse recette numéro 38.",
+      "image": "https://picsum.photos/id/138/400/300",
+      "regimes": [
+        "omnivore",
+        "vegan"
+      ],
+      "time": 20,
+      "difficulty": "difficile",
+      "category": "soupe",
+      "ingredients": [
+        "fromage",
+        "poulet",
+        "champignons",
+        "avocat",
+        "courgette",
+        "oignon",
+        "banane"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef M"
+    },
+    {
+      "id": 39,
+      "title": "Recette 39",
+      "description": "Une délicieuse recette numéro 39.",
+      "image": "https://picsum.photos/id/139/400/300",
+      "regimes": [
+        "fruitarien"
+      ],
+      "time": 45,
+      "difficulty": "facile",
+      "category": "dessert",
+      "ingredients": [
+        "épinards",
+        "poulet",
+        "avocat",
+        "champignons",
+        "noix"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef N"
+    },
+    {
+      "id": 40,
+      "title": "Recette 40",
+      "description": "Une délicieuse recette numéro 40.",
+      "image": "https://picsum.photos/id/140/400/300",
+      "regimes": [
+        "vegan"
+      ],
+      "time": 30,
+      "difficulty": "moyenne",
+      "category": "dessert",
+      "ingredients": [
+        "oignon",
+        "banane",
+        "poisson",
+        "noix"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef O"
+    },
+    {
+      "id": 41,
+      "title": "Recette 41",
+      "description": "Une délicieuse recette numéro 41.",
+      "image": "https://picsum.photos/id/141/400/300",
+      "regimes": [
+        "pescetarien",
+        "sans-gluten",
+        "omnivore"
+      ],
+      "time": 30,
+      "difficulty": "difficile",
+      "category": "plat",
+      "ingredients": [
+        "tofu",
+        "oeufs",
+        "épinards",
+        "courgette",
+        "poisson"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef P"
+    },
+    {
+      "id": 42,
+      "title": "Recette 42",
+      "description": "Une délicieuse recette numéro 42.",
+      "image": "https://picsum.photos/id/142/400/300",
+      "regimes": [
+        "fruitarien",
+        "vegan"
+      ],
+      "time": 30,
+      "difficulty": "facile",
+      "category": "plat",
+      "ingredients": [
+        "oignon",
+        "banane",
+        "fromage",
+        "oeufs"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef Q"
+    },
+    {
+      "id": 43,
+      "title": "Recette 43",
+      "description": "Une délicieuse recette numéro 43.",
+      "image": "https://picsum.photos/id/143/400/300",
+      "regimes": [
+        "vegetarien",
+        "sans-gluten",
+        "fruitarien"
+      ],
+      "time": 15,
+      "difficulty": "facile",
+      "category": "dessert",
+      "ingredients": [
+        "lentilles",
+        "banane",
+        "riz",
+        "oignon",
+        "poulet",
+        "tomate"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef R"
+    },
+    {
+      "id": 44,
+      "title": "Recette 44",
+      "description": "Une délicieuse recette numéro 44.",
+      "image": "https://picsum.photos/id/144/400/300",
+      "regimes": [
+        "crudivore",
+        "flexitarien",
+        "omnivore"
+      ],
+      "time": 20,
+      "difficulty": "difficile",
+      "category": "plat",
+      "ingredients": [
+        "oignon",
+        "épinards",
+        "courgette",
+        "banane",
+        "noix"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef S"
+    },
+    {
+      "id": 45,
+      "title": "Recette 45",
+      "description": "Une délicieuse recette numéro 45.",
+      "image": "https://picsum.photos/id/145/400/300",
+      "regimes": [
+        "fruitarien"
+      ],
+      "time": 45,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "tofu",
+        "pomme de terre",
+        "fromage",
+        "épinards",
+        "riz",
+        "champignons",
+        "banane"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef T"
+    },
+    {
+      "id": 46,
+      "title": "Recette 46",
+      "description": "Une délicieuse recette numéro 46.",
+      "image": "https://picsum.photos/id/146/400/300",
+      "regimes": [
+        "paleo",
+        "flexitarien"
+      ],
+      "time": 15,
+      "difficulty": "moyenne",
+      "category": "plat",
+      "ingredients": [
+        "tofu",
+        "banane",
+        "avocat",
+        "courgette"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef U"
+    },
+    {
+      "id": 47,
+      "title": "Recette 47",
+      "description": "Une délicieuse recette numéro 47.",
+      "image": "https://picsum.photos/id/147/400/300",
+      "regimes": [
+        "flexitarien"
+      ],
+      "time": 60,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "pomme de terre",
+        "tofu",
+        "banane",
+        "champignons",
+        "épinards"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef V"
+    },
+    {
+      "id": 48,
+      "title": "Recette 48",
+      "description": "Une délicieuse recette numéro 48.",
+      "image": "https://picsum.photos/id/148/400/300",
+      "regimes": [
+        "pescetarien",
+        "flexitarien",
+        "fruitarien"
+      ],
+      "time": 20,
+      "difficulty": "facile",
+      "category": "entrée",
+      "ingredients": [
+        "champignons",
+        "tomate",
+        "tofu",
+        "pomme de terre",
+        "poisson"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef W"
+    },
+    {
+      "id": 49,
+      "title": "Recette 49",
+      "description": "Une délicieuse recette numéro 49.",
+      "image": "https://picsum.photos/id/149/400/300",
+      "regimes": [
+        "pescetarien",
+        "vegan",
+        "sans-gluten"
+      ],
+      "time": 30,
+      "difficulty": "facile",
+      "category": "salade",
+      "ingredients": [
+        "carotte",
+        "champignons",
+        "quinoa",
+        "tofu"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef X"
+    },
+    {
+      "id": 50,
+      "title": "Recette 50",
+      "description": "Une délicieuse recette numéro 50.",
+      "image": "https://picsum.photos/id/150/400/300",
+      "regimes": [
+        "sans-gluten",
+        "vegetarien",
+        "fruitarien"
+      ],
+      "time": 60,
+      "difficulty": "difficile",
+      "category": "salade",
+      "ingredients": [
+        "banane",
+        "poulet",
+        "quinoa",
+        "noix"
+      ],
+      "steps": [
+        "Préparer les ingrédients.",
+        "Cuire à feu doux pendant 15 minutes.",
+        "Assaisonner selon vos goûts.",
+        "Servir chaud avec un accompagnement."
+      ],
+      "author": "Chef Y"
+    }
+  ],
+    "regimes": [
+      {
+        "id": "omnivore",
+        "name": "Omnivore",
+        "description": "Consomme tous les types d’aliments d’origine animale et végétale.",
+        "allowed": ["Viande", "Poisson", "Produits laitiers", "Œufs", "Légumes", "Fruits", "Céréales", "Noix"],
+        "forbidden": [],
+        "image": "https://picsum.photos/id/201/400/300"
+      },
+      {
+        "id": "vegetarien",
+        "name": "Végétarien",
+        "description": "Ne consomme pas de viande, de volaille ni de poisson.",
+        "allowed": ["Légumes", "Fruits", "Produits laitiers", "Œufs", "Céréales", "Noix"],
+        "forbidden": ["Viande", "Volaille", "Poisson", "Fruits de mer"],
+        "image": "https://picsum.photos/id/202/400/300"
+      },
+      {
+        "id": "vegan",
+        "name": "Végétalien",
+        "description": "Consomme uniquement des aliments d’origine végétale.",
+        "allowed": ["Légumes", "Fruits", "Céréales", "Noix", "Graines"],
+        "forbidden": ["Viande", "Poisson", "Produits laitiers", "Œufs", "Miel"],
+        "image": "https://picsum.photos/id/203/400/300"
+      },
+      {
+        "id": "pescetarien",
+        "name": "Pescétarien",
+        "description": "Inclut le poisson et les fruits de mer mais exclut la viande et la volaille.",
+        "allowed": ["Poisson", "Fruits de mer", "Légumes", "Fruits", "Céréales"],
+        "forbidden": ["Viande", "Volaille"],
+        "image": "https://picsum.photos/id/204/400/300"
+      },
+      {
+        "id": "flexitarien",
+        "name": "Flexitarien",
+        "description": "Régime majoritairement végétarien avec des apports occasionnels de viande ou poisson.",
+        "allowed": ["Légumes", "Fruits", "Céréales", "Viande (occasionnellement)", "Poisson"],
+        "forbidden": [],
+        "image": "https://picsum.photos/id/205/400/300"
+      },
+      {
+        "id": "fruitarien",
+        "name": "Fruitarien",
+        "description": "Consomme principalement des fruits, parfois des noix et des graines.",
+        "allowed": ["Fruits", "Noix", "Graines"],
+        "forbidden": ["Viande", "Poisson", "Produits laitiers", "Œufs", "Légumes", "Céréales"],
+        "image": "https://picsum.photos/id/206/400/300"
+      },
+      {
+        "id": "crudivore",
+        "name": "Crudivore",
+        "description": "Consomme uniquement des aliments crus ou cuits à basse température.",
+        "allowed": ["Légumes crus", "Fruits", "Noix", "Graines"],
+        "forbidden": ["Aliments cuits à haute température"],
+        "image": "https://picsum.photos/id/207/400/300"
+      },
+      {
+        "id": "paleo",
+        "name": "Paléo",
+        "description": "Basé sur l’alimentation de l’ère paléolithique : pas de produits transformés.",
+        "allowed": ["Viande", "Poisson", "Fruits", "Légumes", "Noix", "Graines"],
+        "forbidden": ["Produits laitiers", "Céréales", "Légumineuses", "Sucre raffiné", "Aliments transformés"],
+        "image": "https://picsum.photos/id/208/400/300"
+      },
+      {
+        "id": "cetogene",
+        "name": "Cétogène (Keto)",
+        "description": "Très faible en glucides, riche en graisses et modéré en protéines.",
+        "allowed": ["Viande", "Poisson", "Œufs", "Graisses", "Légumes pauvres en glucides"],
+        "forbidden": ["Sucreries", "Céréales", "Fruits sucrés", "Légumineuses"],
+        "image": "https://picsum.photos/id/209/400/300"
+      },
+      {
+        "id": "sans-gluten",
+        "name": "Sans gluten",
+        "description": "Exclut tout aliment contenant du gluten.",
+        "allowed": ["Riz", "Quinoa", "Maïs", "Fruits", "Légumes", "Viande", "Poisson"],
+        "forbidden": ["Blé", "Orge", "Seigle", "Aliments transformés contenant du gluten"],
+        "image": "https://picsum.photos/id/210/400/300"
+      }
+    ]
+  }
